@@ -1,0 +1,10 @@
+ndn-project1-core.cc has more cache size on core nodes and less cache on edge nodes
+ndn-project1-edge.cc has more cahce size on edge nodes and less cache on core nodes
+
+app-delays-trace.txt and cs-trace.txt are sample output files 
+
+reader.py reads app-delays-trace.txt outputs 
+1) Number of lines
+2) total number of cache hits
+3) total number of cache misses
+4) total number of hop counts
